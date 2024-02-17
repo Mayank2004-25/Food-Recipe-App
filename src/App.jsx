@@ -6,6 +6,7 @@ import "./App.css";
 import Container from "./components/Container";
 import InnerContainer from "./components/InnerContainer";
 import FoodDetails from "./components/FoodDetails";
+import Item from "./components/Item";
 
 function App() {
   const [foodData, setFoodData] = useState([]);

@@ -5,7 +5,9 @@ export default function ItemList({ food, isLoading }) {
       {isLoading ? (
         <p>Loading</p>
       ) : (
-        food.extendedIngredients.map((item) => <Item item={item} />)
+        food.extendedIngredients.map((item, index) => (
+          <Item key={index} item={item} />
+        ))
       )}
       {}
     </div>
