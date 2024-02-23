@@ -3,8 +3,9 @@ Introducing our Food Recipe App, a culinary haven meticulously designed with Rea
 Immerse yourself in a gastronomic journey through an expansive collection of recipes, thoughtfully presented in a visually appealing and intuitive interface. 
 Whether you're a seasoned chef or a kitchen enthusiast, this app provides a seamless experience to explore, experiment, and share your culinary creations.
 
-With a dynamic search feature, finding the perfect recipe is a breeze, while real-time updates ensure you're always in sync with the latest culinary trends.
-The app's responsive design guarantees a delightful experience across devices, from desktops to mobiles.
+With a dynamic search feature, finding the perfect recipe is a breeze, while real-time updates powered by API keys ensure you're always in sync with the latest culinary trends. The app's responsive design guarantees a delightful experience across devices, from desktops to mobiles.
+
+
 
 Elevate your cooking adventure with a user-friendly interface that seamlessly integrates technology with the joy of culinary exploration. 
 Join us in celebrating the art of cooking and the diverse world of flavors with our innovative Food Recipe App! 🌐👨‍🍳 #React #FoodRecipeApp #WebDevelopment 🥑📲.
